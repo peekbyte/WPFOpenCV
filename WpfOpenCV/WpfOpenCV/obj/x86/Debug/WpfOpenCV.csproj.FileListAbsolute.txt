@@ -1,0 +1,13 @@
+e:\_profile\hassan\documents\visual studio 2010\projects\WpfOpenCV\WpfOpenCV\bin\Debug\WpfOpenCV.exe
+e:\_profile\hassan\documents\visual studio 2010\projects\WpfOpenCV\WpfOpenCV\bin\Debug\WpfOpenCV.pdb
+e:\_profile\hassan\documents\visual studio 2010\projects\WpfOpenCV\WpfOpenCV\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\_profile\hassan\documents\visual studio 2010\projects\WpfOpenCV\WpfOpenCV\obj\x86\Debug\MainWindow.baml
+e:\_profile\hassan\documents\visual studio 2010\projects\WpfOpenCV\WpfOpenCV\obj\x86\Debug\MainWindow.g.cs
+e:\_profile\hassan\documents\visual studio 2010\projects\WpfOpenCV\WpfOpenCV\obj\x86\Debug\App.g.cs
+e:\_profile\hassan\documents\visual studio 2010\projects\WpfOpenCV\WpfOpenCV\obj\x86\Debug\WpfOpenCV_MarkupCompile.cache
+e:\_profile\hassan\documents\visual studio 2010\projects\WpfOpenCV\WpfOpenCV\obj\x86\Debug\WpfOpenCV.g.resources
+e:\_profile\hassan\documents\visual studio 2010\projects\WpfOpenCV\WpfOpenCV\obj\x86\Debug\WpfOpenCV.Properties.Resources.resources
+e:\_profile\hassan\documents\visual studio 2010\projects\WpfOpenCV\WpfOpenCV\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\_profile\hassan\documents\visual studio 2010\projects\WpfOpenCV\WpfOpenCV\obj\x86\Debug\GenerateResource.write.1.tlog
+e:\_profile\hassan\documents\visual studio 2010\projects\WpfOpenCV\WpfOpenCV\obj\x86\Debug\WpfOpenCV.exe
+e:\_profile\hassan\documents\visual studio 2010\projects\WpfOpenCV\WpfOpenCV\obj\x86\Debug\WpfOpenCV.pdb
